@@ -21,7 +21,5 @@ This project provides an end-to-end solution for analyzing and summarizing scann
 ### BART Summarization Result
 ![Summary BART](summarybart.PNG)
 
----
 
-## 🗂️ Project Structure
 
