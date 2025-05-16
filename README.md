@@ -16,7 +16,7 @@ This project provides an end-to-end solution for analyzing and summarizing scann
 ## 🖼️ Sample Outputs
 
 ### LayoutLM Model Output
-![LayoutLM Sample 2](layoutlm2.PNG)
+![LayoutLM Sample 2](layoutlm1.PNG)
 
 ### BART Summarization Result
 ![Summary BART](summarybart.PNG)
